@@ -21,7 +21,7 @@ public class Arthmetic_4 {
 		System.out.println("Please enter value of x1 ");
 		Scanner s = new Scanner(System.in);
 		int x1 =s.nextInt();
-		System.out.println("Please enter value of x2 for additon");
+		System.out.println("Please enter value of x2 for adding");
 		int x2 = s.nextInt();
 		System.out.println("Please enter value of x3 for substarction");
 		int x3 = s.nextInt();
